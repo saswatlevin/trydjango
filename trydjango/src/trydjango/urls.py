@@ -18,10 +18,14 @@ from django.urls import path
 
 from pages.views import home_view
 from pages.views import contact_view
+from pages.views import about_view
+from pages.views import social_view
 
 urlpatterns = [
     path('', home_view, name='home'),
     path('contact/',contact_view,name='contact'),
+    path('about/',about_view,name='about'),
+    path('social/',social_view,name='social'),
     path('admin/', admin.site.urls)
 
 ]
