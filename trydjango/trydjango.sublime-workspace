@@ -1,0 +1,676 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"DIS",
+				"DISCOUNT"
+			],
+			[
+				"DI",
+				"DISCOUNT"
+			],
+			[
+				"del",
+				"deliveryord"
+			],
+			[
+				"CU",
+				"CURRENCY"
+			],
+			[
+				"PRICE",
+				"PRICE_AFTER_DISCOUNT"
+			],
+			[
+				"QTY_",
+				"QTY_IN_PO"
+			],
+			[
+				"de",
+				"delivery"
+			],
+			[
+				"pay",
+				"payment"
+			],
+			[
+				"CA",
+				"CASCADE"
+			],
+			[
+				"C",
+				"CASCADE"
+			],
+			[
+				"VE",
+				"VENDORID"
+			],
+			[
+				"VEND",
+				"VEND_NAME"
+			],
+			[
+				"ca",
+				"category"
+			],
+			[
+				"PR",
+				"PRIMARY"
+			],
+			[
+				"pr",
+				"profile"
+			],
+			[
+				"VENDOR",
+				"VENDORID"
+			],
+			[
+				"pro",
+				"product"
+			],
+			[
+				"D",
+				"DELETE"
+			],
+			[
+				"P",
+				"PRIMARY"
+			],
+			[
+				"DE",
+				"DELIVERYID"
+			],
+			[
+				"CAT",
+				"CAT_NAME"
+			],
+			[
+				"PRO",
+				"PRODUCT_NAME"
+			],
+			[
+				"navbar",
+				"navbar-brand"
+			],
+			[
+				"p",
+				"prodord"
+			],
+			[
+				"cu",
+				"customer"
+			],
+			[
+				"L",
+				"LINEAR_BAR_CODE"
+			],
+			[
+				"CUS",
+				"customer"
+			],
+			[
+				"homeHTML",
+				"homeHTMLInsertIntoMainPage"
+			],
+			[
+				"mai",
+				"main-content"
+			],
+			[
+				"short",
+				"short_name"
+			],
+			[
+				"choose",
+				"chooseRandomCategory"
+			],
+			[
+				"cho",
+				"chosenCategoryShortName"
+			],
+			[
+				"choo",
+				"chooseRandomCategory"
+			],
+			[
+				"build",
+				"buildAndShowHomeHTML"
+			],
+			[
+				"all",
+				"allCategoriesUrl"
+			],
+			[
+				"hi",
+				"hidden-sm"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"margin-",
+				"margin-top\tproperty"
+			],
+			[
+				"min-",
+				"min-width\tproperty"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"padding",
+				"padding-left\tproperty"
+			],
+			[
+				"padd",
+				"padding-right\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			],
+			[
+				"vis",
+				"visible-lg"
+			],
+			[
+				"menu",
+				"menu-item-tile"
+			],
+			[
+				"men",
+				"menu-item-tile"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"te",
+				"text-center"
+			],
+			[
+				"me",
+				"menu-categories"
+			],
+			[
+				"bor",
+				"border-top\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"max-",
+				"max-width\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"box-",
+				"box-shadow\tproperty"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"font-",
+				"font-size\tproperty"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"b",
+				"background-color\tproperty"
+			],
+			[
+				"h",
+				"header\tTag"
+			],
+			[
+				"co",
+				"container-fluid"
+			],
+			[
+				"padding-",
+				"padding-right\tproperty"
+			],
+			[
+				"paddig",
+				"padding-bottom\tproperty"
+			],
+			[
+				"ma",
+				"margin-right\tproperty"
+			],
+			[
+				"a",
+				"auto\tmargin-left"
+			],
+			[
+				"paddin",
+				"padding-right\tproperty"
+			],
+			[
+				"col-",
+				"col-tb-6"
+			],
+			[
+				"bacg",
+				"background-color\tproperty"
+			],
+			[
+				"backro",
+				"background\tproperty"
+			],
+			[
+				"backgroun",
+				"background-color\tproperty"
+			],
+			[
+				"text-",
+				"text-align\tproperty"
+			],
+			[
+				"ae",
+				"article\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/manage.py",
+			"settings":
+			{
+				"buffer_size": 541,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/aejaz/Desktop/Code/Dev/trydjango/Scripts/activate.bat",
+		"/C/Users/aejaz/Desktop/windows/dirent.h",
+		"/C/Users/aejaz/Desktop/MIA-Saswat-Project/SQL/tables.sql",
+		"/C/Users/aejaz/Desktop/MIA-Saswat-Project/tables.sql",
+		"/C/Users/aejaz/Desktop/flu-zapper/main.c",
+		"/C/Users/aejaz/Desktop/MIA-Saswat-Project/SQL/testing.sql",
+		"/C/Users/aejaz/Desktop/MIA-Saswat-Project/site/1965",
+		"/C/Users/aejaz/Desktop/Coursera-material/Week2/Responsive-design.html",
+		"/C/Users/aejaz/Desktop/MIA-Saswat-Project/SQL/insert.sql",
+		"/C/Users/aejaz/Desktop/coursera-html-css-js-course/site/module-3-solution/css/styles.css",
+		"/C/Users/aejaz/Desktop/MIA-Saswat-Project/insert.sql",
+		"/C/Users/aejaz/Desktop/MIA-Saswat-Project/tables.txt",
+		"/C/Users/aejaz/Desktop/MIA-Saswat-Project/testing.sql",
+		"/C/Users/aejaz/Desktop/fullstack-course4/assignments/assignment5/assignment5-solution-starter/js/script.js",
+		"/C/Users/aejaz/Desktop/coursera-html-css-js-course/site/index.html",
+		"/C/Users/aejaz/Desktop/Desktop.js",
+		"/C/Users/aejaz/Desktop/IJK.html",
+		"/C/Users/aejaz/Desktop/coursera-html-css-js-course/site/module-5-solution/js/script.js",
+		"/C/Users/aejaz/Desktop/Coursera-material/Week5/module-5-solution/js/script.js",
+		"/C/Users/aejaz/Desktop/fullstack-course4/examples/Lecture61/after/index.html",
+		"/C/Users/aejaz/Desktop/fullstack-course4/examples/Lecture61/after/js/script.js",
+		"/C/Users/aejaz/Desktop/fullstack-course4/examples/Lecture63/after/snippets/home-snippet.html",
+		"/C/Users/aejaz/Desktop/Answers/Coursera_HTML-CSS-Javascript-for-Web-Developers-master/module5_solution/index.html",
+		"/C/Users/aejaz/Desktop/Coursera-material/Week5/module-5-solution/js/ajax-utils.js",
+		"/C/Users/aejaz/Desktop/fullstack-course4/examples/Lecture59/after/index.html",
+		"/C/Users/aejaz/Desktop/Coursera-material/Week5/module-5-solution/index.html",
+		"/C/Users/aejaz/Desktop/fullstack-course4/examples/Lecture63/after/js/script.js",
+		"/C/Users/aejaz/Desktop/fullstack-course4/examples/Lecture57/js/ajax-utils.js",
+		"/C/Users/aejaz/Desktop/fullstack-course4/examples/Lecture62/after/js/script.js",
+		"/C/Users/aejaz/Desktop/fullstack-course4/examples/Lecture59/after/js/script.js",
+		"/C/Users/aejaz/Desktop/fullstack-course4/examples/Lecture57/js/script.js",
+		"/C/Users/aejaz/Desktop/fullstack-course4/examples/Lecture58/js/ajax-utils.js",
+		"/C/Users/aejaz/Desktop/fullstack-course4/examples/Lecture57/index.html",
+		"/C/Users/aejaz/Desktop/FGH.html",
+		"/C/Users/aejaz/Desktop/Desktop1.js",
+		"/C/Users/aejaz/Desktop/IJK.js",
+		"/C/Users/aejaz/Desktop/fullstack-course4/examples/Lecture54/index.html",
+		"/C/Users/aejaz/Desktop/fullstack-course4/examples/Lecture54/js/script.js",
+		"/C/Users/aejaz/Desktop/fullstack-course4/examples/Lecture53/js/script.js",
+		"/C/Users/aejaz/Desktop/fullstack-course4/examples/Lecture53/index.html",
+		"/C/Users/aejaz/Desktop/index.html",
+		"/C/Users/aejaz/Desktop/script.js",
+		"/C/Users/aejaz/Desktop/fullstack-course4/examples/Lecture52/index.html",
+		"/C/Users/aejaz/Desktop/Coursera-material/Week4/module-4-solution/SpeakGoodBye.js",
+		"/C/Users/aejaz/Desktop/Coursera-material/Week4/module-4-solution/SpeakHello.js",
+		"/C/Users/aejaz/Desktop/coursera-html-css-js-course/_config.yml",
+		"/C/Users/aejaz/Desktop/coursera-html-css-js-course/site/module-4-solution/index.html",
+		"/C/Users/aejaz/Desktop/Coursera-material/Week4/module-4-solution/script.js",
+		"/C/Users/aejaz/Desktop/coursera-html-css-js-course/site/module-3-solution/index.html",
+		"/C/Users/aejaz/Desktop/Coursera-material/Week4/module-4-solution/Practice/script2.js",
+		"/C/Users/aejaz/Desktop/Coursera-material/Week4/module-4-solution/Practice/script1.js",
+		"/C/Users/aejaz/Desktop/Coursera-material/Week4/module-4-solution/index.html",
+		"/C/Users/aejaz/Desktop/Coursera-material/Week4/module-4-solution/Practice/index.html",
+		"/C/Users/aejaz/Desktop/Coursera-material/Week4/module-4-solution/Practice/app.js",
+		"/C/Users/aejaz/Desktop/Coursera-material/Week4/module-4-solution/practice.html",
+		"/C/Users/aejaz/Desktop/Coursera-material/Week4/module-4-solution/practice.js",
+		"/C/Users/aejaz/Desktop/fullstack-course4/examples/Lecture52/js/app.js",
+		"/C/Users/aejaz/Desktop/fullstack-course-4/assignments/assignment4/assignment4-solution-starter/easier/SpeakHello.js",
+		"/C/Users/aejaz/Desktop/fullstack-course-4/assignments/assignment4/assignment4-solution-starter/easier/SpeakGoodBye.js",
+		"/C/Users/aejaz/Desktop/Coursera-material/Week4/script.js",
+		"/C/Users/aejaz/Desktop/Coursera-material/Week4/index.html",
+		"/C/Users/aejaz/Desktop/fullstack-course-4/examples/Lecture47/js/script.js",
+		"/C/Users/aejaz/Desktop/fullstack-course-4/examples/Lecture46/js/script.js",
+		"/C/Users/aejaz/Desktop/fullstack-course-4/assignments/assignment4/assignment4-solution-starter/easier/script.js",
+		"/C/Users/aejaz/Desktop/fullstack-course-4/examples/Lecture43/js/script.js",
+		"/C/Users/aejaz/Desktop/fullstack-course-4/examples/Lecture44/js/script.js",
+		"/C/Users/aejaz/Desktop/coursera-html-css-js-course/site/module-3-solution/css/bootstrap.css",
+		"/C/Users/aejaz/Desktop/coursera-html-css-js-course/site/module3-solution/index.html",
+		"/C/Users/aejaz/Desktop/Coursera-material/Week3/module-3-solution/css/styles.css",
+		"/C/Users/aejaz/Desktop/Coursera-material/Week3/module-3-solution/SAP2.html",
+		"/C/Users/aejaz/Desktop/fullstack-course-4/examples/Lecture33/after/index.html",
+		"/C/Users/aejaz/Desktop/Coursera-material/Week3/module-3-solution/css/styles1.css",
+		"/C/Users/aejaz/Desktop/fullstack-course-4/examples/Lecture32/after/index.html",
+		"/C/Users/aejaz/Desktop/Coursera-material/Week3/module-3-solution/index.html",
+		"/C/Users/aejaz/Desktop/Coursera-material/Week3/module-3-solution/index1.html",
+		"/C/Users/aejaz/Desktop/Coursera-material/Week3/module-3-solution/exp.html",
+		"/C/Users/aejaz/Desktop/Coursera-material/Week3/module-3-solution/css/bootstrap.css",
+		"/C/Users/aejaz/Desktop/fullstack-course-4/examples/Lecture32/after/css/styles.css",
+		"/C/Users/aejaz/Desktop/fullstack-course-4/examples/Lecture31/after/index.html",
+		"/C/Users/aejaz/Desktop/fullstack-course-4/examples/Lecture30/after/index.html",
+		"/C/Users/aejaz/Desktop/coursera-html-css-js-course/site/module-2-solution/css/styles.css",
+		"/C/Users/aejaz/Desktop/Coursera-material/Week2/module-2-solution/css/styles.css",
+		"/C/swapfile.sys",
+		"/C/Users/aejaz/Desktop/Coursera-material/Week3/module-3-solution/css/bootstrap.min.css",
+		"/C/Users/aejaz/Desktop/fullstack-course-4/examples/Lecture25/index.html",
+		"/C/Users/aejaz/Desktop/fullstack-course-4/examples/Lecture29/after/index.html",
+		"/C/Users/aejaz/Desktop/Coursera-material/Week3/js/bootstrap.js",
+		"/C/Users/aejaz/Desktop/After/css/styles.css",
+		"/C/Users/aejaz/Desktop/After/index.html",
+		"/C/Users/aejaz/Desktop/fullstack-course-4/examples/Lecture38/after/single-category.html",
+		"/C/Users/aejaz/Desktop/After/single-category.html",
+		"/C/Users/aejaz/Desktop/After/menu-categories.html",
+		"/C/Users/aejaz/Desktop/fullstack-course-4/examples/Lecture38/after/index.html",
+		"/C/Users/aejaz/Desktop/After/map_link.txt",
+		"/C/Users/aejaz/Desktop/fullstack-course-4/examples/Lecture35/after/index.html",
+		"/C/Users/aejaz/Desktop/Coursera-material/Week2/Bootstrap/After/index.html",
+		"/C/Users/aejaz/Desktop/After/css/bootstrap.css",
+		"/C/Users/aejaz/Desktop/After/js/bootstrap.js",
+		"/C/Users/aejaz/Desktop/fullstack-course-4/examples/Lecture31/after/css/styles.css",
+		"/C/Users/aejaz/Desktop/After/css/bootstrap.min.css",
+		"/C/Users/aejaz/Desktop/fullstack-course-4/examples/Lecture29/before/index.html",
+		"/C/Users/aejaz/Desktop/After/css/styles1.css",
+		"/C/Users/aejaz/Desktop/Coursera-material/Week2/Bootstrap/After/css/styles1.css",
+		"/C/Users/aejaz/Desktop/Coursera-material/Week2/Bootstrap/index.html",
+		"/C/Users/aejaz/Desktop/Coursera-material/Week2/Bootstrap/css/styles.css",
+		"/C/Users/aejaz/Desktop/Coursera-material/Week2/Bootstrap/grid-before.html",
+		"/C/Users/aejaz/Desktop/coursera-html-css-js-course/site/module-2-solution/index.html",
+		"/C/Users/aejaz/Desktop/Coursera-material/Week2/Relative-positioning.html",
+		"/C/Users/aejaz/Desktop/Coursera-material/Week2/MQ-1.html",
+		"/C/Users/aejaz/Desktop/Coursera-material/Week2/Positioning-after.html",
+		"/C/Users/aejaz/Desktop/Coursera-material/Week2/box-model.html",
+		"/C/Users/aejaz/Desktop/Coursera-material/Week2/assignment-2.txt",
+		"/C/Users/aejaz/Desktop/Coursera-material/Week2/module-2-solution/list of parameters.txt",
+		"/C/Users/aejaz/Desktop/Coursera-material/Week2/module-2-solution/index.html",
+		"/C/Users/aejaz/Downloads/index.html",
+		"/C/Users/aejaz/Downloads/css/styles.css",
+		"/C/Users/aejaz/Desktop/master/module-2-solution/css/styles.css",
+		"/C/Users/aejaz/Desktop/master/module-2-solution/index.html",
+		"/C/Users/aejaz/Desktop/Coursera-material/Week2/responsive-test.html",
+		"/C/Users/aejaz/Desktop/Coursera-material/Week2/Review criteria.txt",
+		"/C/Users/aejaz/Desktop/Coursera-material/Week2/MQ_after.html",
+		"/C/Users/aejaz/Desktop/Coursera-material/Week2/Absolute-positioning.html",
+		"/C/Users/aejaz/Desktop/Coursera-material/Week2/MQ_before.html",
+		"/C/Users/aejaz/Desktop/Coursera-material/Week2/lorem-ipsum.txt",
+		"/C/Users/aejaz/Desktop/Coursera-material/Week2/backround-properties.html",
+		"/C/Users/aejaz/Desktop/Coursera-material/Week2/module-2-solution/styles.css",
+		"/C/Users/aejaz/Desktop/Coursera-material/Week2/floating-bfr.html",
+		"/C/Users/aejaz/Desktop/Coursera-material/Week2/first-css.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"PRICE",
+			"CURRENCY",
+			"PRICE",
+			"QTY",
+			"LOC_NAME",
+			"CUST_LOC",
+			"payment",
+			"paym",
+			"CREATE",
+			"CATID",
+			"PROD_TYPE",
+			"80",
+			"50",
+			"CREATE TABLE kart(CUSTID numeric(6,0),\n                         ORDID  numeric(6,0),\n                         VENDORID numeric(6,0),\n                         BRAND    varchar(30),\n                         QTY_SOLD  numeric(6,0),\n                         PRIMARY KEY(CUSTID,ORDID,VENDORID),\n                         FOREIGN KEY(VENDORID) REFERENCES vendor(VENDORID) ON DELETE CASCADE,\n                         FOREIGN KEY(ORDID)    REFERENCES ord(ORDID) ON DELETE CASCADE\n                         ); ",
+			"NOT NULL",
+			"dc",
+			"main-content",
+			"#main-content",
+			"insertHTml",
+			"insertPro",
+			".hidden-sm-up",
+			".row",
+			"md",
+			"visible-md",
+			"md",
+			"collapse",
+			".navbar-toggle",
+			"216px"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"CUST_LOC_NAME",
+			"PRODUCT_TYPE",
+			"70",
+			"80",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/manage.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 541,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "trydjango.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
